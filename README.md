@@ -13,7 +13,7 @@ It combines the power of AI models with the robustness of Spring backend technol
 ## 🛠️ Tech Stack
 
 - **Backend**: Spring Boot, Spring AI
-- **AI/ML**: Integration with LLM APIs (e.g., OpenAI, HuggingFace, etc.)
+- **AI/ML**
 - **Other**: , REST APIs
 
 ## 🚀 How to Run Locally
